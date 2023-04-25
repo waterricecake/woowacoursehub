@@ -12,3 +12,4 @@
 |[사다리 게임](https://github.com/waterricecake/java-ladder)|2023.2.14~2023.2.24|레벨1|
 |[블랙잭](https://github.com/waterricecake/java-blackjack)|2023.2.28~2023.3.13|레벨1|
 |[체스](https://github.com/waterricecake/java-chess)|2023.3.14~2023.3.29|레벨1|
+|[웹 자동차 경주](https://github.com/waterricecake/jwp-racingcar)|2023.4.11~2023.4.24|레벨2|
