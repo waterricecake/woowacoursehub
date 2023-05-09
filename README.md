@@ -13,4 +13,5 @@
 |[블랙잭](https://github.com/waterricecake/java-blackjack)|2023.2.28~2023.3.13|레벨1|
 |[체스](https://github.com/waterricecake/java-chess)|2023.3.14~2023.3.29|레벨1|
 |[웹 자동차 경주](https://github.com/waterricecake/jwp-racingcar)|2023.4.11~2023.4.24|레벨2|
-|[장바구니](https://github.com/waterricecake/jwp-shopping-cart)|2023.4.25~|레벨2|
+|[장바구니](https://github.com/waterricecake/jwp-shopping-cart)|2023.4.25~2023.5.9|레벨2|
+|[지하철노선](https://github.com/waterricecake/jwp-subway-path)|2023.5.9~|레벨2|
