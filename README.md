@@ -1,4 +1,4 @@
-# 우아한 테크 코스
+2# 우아한 테크 코스
 
 # 우아한 테크 코스 5기 미션 
 |미션이름|기한|레벨|
@@ -14,4 +14,7 @@
 |[체스](https://github.com/waterricecake/java-chess)|2023.3.14~2023.3.29|레벨1|
 |[웹 자동차 경주](https://github.com/waterricecake/jwp-racingcar)|2023.4.11~2023.4.24|레벨2|
 |[장바구니](https://github.com/waterricecake/jwp-shopping-cart)|2023.4.25~2023.5.9|레벨2|
-|[지하철노선](https://github.com/waterricecake/jwp-subway-path)|2023.5.9~|레벨2|
+|[지하철노선](https://github.com/waterricecake/jwp-subway-path)|2023.5.9~2023.5.23|레벨2|
+|[장바구니미션](https://github.com/waterricecake/jwp-shopping-order)|2023.5.23~2023.6.7|레벨2|
+|[행록_팀프로젝트](https://github.com/woowacourse-teams/2023-hang-log)|2023.5.23~2023.6.7|레벨3|
+|[행록_팀프로젝트](https://github.com/woowacourse-teams/2023-hang-log)|2023.5.23~2023.6.7|레벨4|
