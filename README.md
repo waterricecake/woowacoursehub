@@ -16,7 +16,7 @@
 |[장바구니](https://github.com/waterricecake/jwp-shopping-cart)|2023.4.25~2023.5.9|레벨2|
 |[지하철노선](https://github.com/waterricecake/jwp-subway-path)|2023.5.9~2023.5.23|레벨2|
 |[장바구니미션](https://github.com/waterricecake/jwp-shopping-order)|2023.5.23~2023.6.7|레벨2|
-|[행록_팀프로젝트](https://github.com/woowacourse-teams/2023-hang-log)|2023.6.27~|레벨3|
+|[행록_팀프로젝트](https://github.com/woowacourse-teams/2023-hang-log)|2023.6.27~2023.11.24|레벨3|
 |[Tomcat미션](https://github.com/waterricecake/jwp-dashboard-http)|2023.8.31~2023.9.13|레벨4|
 |[MVC미션](https://github.com/waterricecake/jwp-dashboard-mvc)|2023.8.12~2023.9.26|레벨4|
 |[JDBC라이브러리구현미션](https://github.com/waterricecake/jwp-dashboard-jdbc)|2023.9.26~2023.10.9|레벨4|
